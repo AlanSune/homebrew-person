@@ -1,6 +1,7 @@
 # homebrew-person
 ## 新增
 - maven@3.5
+- maven@3.6.3
 ## 安装
 ```
 brew tap AlanSune/homebrew-person
