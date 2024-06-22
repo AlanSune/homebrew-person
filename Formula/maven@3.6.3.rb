@@ -1,4 +1,4 @@
-class MavenAT35 < Formula
+class MavenAT363 < Formula
   desc "Java-based project management"
   homepage "https://maven.apache.org/"
   url "https://archive.apache.org/dist/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz"
